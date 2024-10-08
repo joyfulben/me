@@ -6,12 +6,6 @@
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /*
-Custom css
-*/
-.title-name{
-  color: orange !important;
-}
-/*=========================================================================*/
 
 html {
   font-family: sans-serif;
@@ -6337,4 +6331,12 @@ button.close {
     display: none !important;
   }
 }
+/*
+Custom css
+*/
+.title-name{
+  color: orange !important;
+}
+/*=========================================================================*/
+
 /*# sourceMappingURL=bootstrap.css.map */
